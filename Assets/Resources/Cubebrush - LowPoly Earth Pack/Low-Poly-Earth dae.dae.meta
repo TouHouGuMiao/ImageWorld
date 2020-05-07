@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: afa0c125e5ca1884894b9f407224587e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Background
+    100002: Boy
+    100004: boy
+    100006: Camera
+    100008: Capsule
+    100010: Capsule 1
+    100012: Capsule.1
+    100014: Capsule.2
+    100016: Capsule.3
+    100018: Cloner
+    100020: Cloner_ORIGINAL_ORIGINAL
+    100022: cloud
+    100024: cloud 1
+    100026: cloud 2
+    100028: countries.1
+    100030: Cube
+    100032: Cylinder_0
+    100034: Cylinder_1
+    100036: Cylinder_2
+    100038: Cylinder_3
+    100040: Cylinder_4
+    100042: Cylinder_5
+    100044: Extrude
+    100046: Floor
+    100048: home..split.3
+    100050: HOME_2
+    100052: Home_2
+    100054: Hot_Air_Balloon
+    100056: land
+    100058: Lensflare_Source
+    100060: Light
+    100062: Low-Poly-Earth
+    100064: //RootNode
+    100066: Low-Poly-Earth_1
+    100068: Low-Poly-Earth_2
+    100070: Moon
+    100072: Moon_Light
+    100074: Null.1_3
+    100076: Null.2_2
+    100078: Physical_Sky
+    100080: Physical_Sky 1
+    100082: plane.1
+    100084: plane.1 1
+    100086: Scene
+    100088: sea
+    100090: Shadow_Plane
+    100092: Sky_Dome
+    100094: Sky_Null
+    100096: Sphere.1
+    100098: Sun
+    100100: Sun_light
+    400000: Background
+    400002: Boy
+    400004: boy
+    400006: Camera
+    400008: Capsule
+    400010: Capsule 1
+    400012: Capsule.1
+    400014: Capsule.2
+    400016: Capsule.3
+    400018: Cloner
+    400020: Cloner_ORIGINAL_ORIGINAL
+    400022: cloud
+    400024: cloud 1
+    400026: cloud 2
+    400028: countries.1
+    400030: Cube
+    400032: Cylinder_0
+    400034: Cylinder_1
+    400036: Cylinder_2
+    400038: Cylinder_3
+    400040: Cylinder_4
+    400042: Cylinder_5
+    400044: Extrude
+    400046: Floor
+    400048: home..split.3
+    400050: HOME_2
+    400052: Home_2
+    400054: Hot_Air_Balloon
+    400056: land
+    400058: Lensflare_Source
+    400060: Light
+    400062: Low-Poly-Earth
+    400064: //RootNode
+    400066: Low-Poly-Earth_1
+    400068: Low-Poly-Earth_2
+    400070: Moon
+    400072: Moon_Light
+    400074: Null.1_3
+    400076: Null.2_2
+    400078: Physical_Sky
+    400080: Physical_Sky 1
+    400082: plane.1
+    400084: plane.1 1
+    400086: Scene
+    400088: sea
+    400090: Shadow_Plane
+    400092: Sky_Dome
+    400094: Sky_Null
+    400096: Sphere.1
+    400098: Sun
+    400100: Sun_light
+    2000000: Camera
+    2100000: Mat.1
+    2100002: Mat
+    2100004: white
+    2100006: red
+    2100008: Mat.2
+    2100010: Mat.4
+    2100012: green
+    2100014: blue
+    2100016: No Name
+    2100018: brown
+    2300000: boy
+    2300002: Capsule
+    2300004: Capsule 1
+    2300006: Capsule.1
+    2300008: Capsule.2
+    2300010: Capsule.3
+    2300012: cloud
+    2300014: cloud 1
+    2300016: cloud 2
+    2300018: countries.1
+    2300020: Cube
+    2300022: Cylinder_0
+    2300024: Cylinder_1
+    2300026: Cylinder_2
+    2300028: Cylinder_3
+    2300030: Cylinder_4
+    2300032: Cylinder_5
+    2300034: Extrude
+    2300036: home..split.3
+    2300038: HOME_2
+    2300040: land
+    2300042: Null.1_3
+    2300044: Null.2_2
+    2300046: plane.1 1
+    2300048: sea
+    2300050: Sphere.1
+    3300000: boy
+    3300002: Capsule
+    3300004: Capsule 1
+    3300006: Capsule.1
+    3300008: Capsule.2
+    3300010: Capsule.3
+    3300012: cloud
+    3300014: cloud 1
+    3300016: cloud 2
+    3300018: countries.1
+    3300020: Cube
+    3300022: Cylinder_0
+    3300024: Cylinder_1
+    3300026: Cylinder_2
+    3300028: Cylinder_3
+    3300030: Cylinder_4
+    3300032: Cylinder_5
+    3300034: Extrude
+    3300036: home..split.3
+    3300038: HOME_2
+    3300040: land
+    3300042: Null.1_3
+    3300044: Null.2_2
+    3300046: plane.1 1
+    3300048: sea
+    3300050: Sphere.1
+    4300000: boy
+    4300002: Capsule.3
+    4300004: Capsule.2
+    4300006: Capsule.1
+    4300008: Capsule
+    4300010: Cylinder_0
+    4300012: Cylinder_1
+    4300014: Cylinder_2
+    4300016: Cylinder_3
+    4300018: Cylinder_4
+    4300020: Cylinder_5
+    4300022: Cube
+    4300024: Sphere.1
+    4300026: plane.1
+    4300028: HOME_2
+    4300030: home..split.3
+    4300032: cloud
+    4300034: cloud
+    4300036: cloud
+    4300038: land
+    4300040: sea
+    4300042: Extrude
+    4300044: Capsule
+    4300046: Null.2_2
+    4300048: Null.1_3
+    4300050: countries.1
+    10800000: Lensflare_Source
+    10800002: Moon_Light
+    10800004: Sun_light
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
